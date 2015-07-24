@@ -1,5 +1,5 @@
 #README
-##DESCRIBE THE FOLLOW OF CODE
+##DESCRIBE THE FLOW OF CODE
 
 The Script needs to be run in console. The script uses "plyr" package so you must first install the package.
 The script reads both train and test file and their label and subject files respectively. The 6 files of x, y and subject are first combined by row-wise
