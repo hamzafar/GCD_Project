@@ -2,7 +2,7 @@
 ##DESCRIBE THE FLOW OF CODE
 ***
 >
-	The Script needs to be run in console. The script uses "plyr" package so you must first install the package.
+The Script needs to be run in console. The script uses "plyr" package so you must first install the package.
 	The script reads both train and test file and their label and subject files respectively. The 6 files of x, y and subject are first combined by row-wise
 	rbind function then these are combined into one dataset using cbind function. The mean and std of measurement are extracted by first reading the features
 	set and then matching the "mean & std" from the file and  their indexes are retrieved. using these indexes the subset of data from combined data set is
