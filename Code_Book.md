@@ -41,4 +41,17 @@ and description:
 	
 	Variable Name 	|	Description
 	--------------  |  ------------
-	x_train			| reads the data set from training sub folder.
+	x_train			|	reads the training data set from training sub folder.
+	y_train			|	contain the label dataset for training 
+	subject_train	|	have lablels of people subjected to research
+	x_test			|	this variable have the test data set 
+	y_test			|	similarly labels for test data
+	subject_test	|	information about the subjected people
+	datComb			|	combined dataset retrieved from the test and training data
+	features		|	this variable holds the features.txt file. index number and their names
+	idxM			|	indexes of mean measurement extract from the features by graping the rows where mean matching
+	idxS			|	similar as idxM but here std is matched
+	dataMS			|	data set which only have mean and std fields; these are extracted from idxM and idxS
+	dataActivity	|	the dataMS is matched with respective activity label from the activity_labels and store the activity description
+	varNam			|	the variable contains names of column, which are selected in dataMS phase
+	tidyData		|	this is final dataset which contain the mean values of each field with respect to the activity and subject of record.
