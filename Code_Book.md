@@ -40,5 +40,5 @@ This Section describes the variables names and their usages in the scripts. For 
 and description:
 	
 Variable Name 	|	Description
--------------------------------
+--------------  |  ------------
 x_train			| reads the data set from training sub folder.
