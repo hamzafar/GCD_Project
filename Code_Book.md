@@ -3,7 +3,7 @@
 ***
 
 ####Transformation & Cleaning:
-	Since the data contains two sub folders i.e. __train__ and __test__ and for the requirement of project the six data set with three distinct files for both 
+Since the data contains two sub folders i.e. __train__ and __test__ and for the requirement of project the six data set with three distinct files for both 
 	train and test dataset sets named as "X, Y & Subject". These distinct files are merged first by row wise to have 100 % of data and then they are
 	combined column wise; That resulted in 10299 rows & 563 columns. In next step the mean and std related variables are selected by parsing the *feature* 
 	data set are retrieving the indexes from the file which have mean and std sub-string in colnames, using these indexes the subset of merged data set is 
