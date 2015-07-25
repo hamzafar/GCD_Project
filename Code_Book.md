@@ -85,3 +85,6 @@
 		+ 1-30 values
 		+ integer Class
 81.	activity
+	* The variable have six distinct values of activity of people i.e. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) who were
+	wearing the smart phone
+		+ factor class
