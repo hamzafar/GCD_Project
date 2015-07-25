@@ -1,5 +1,5 @@
 #README
-##DESCRIBE THE FLOW OF CODE
+##THE FLOW OF CODE
 ***
 >
 The Script needs to be run in console. The script uses "plyr" package so you must first install the package.
