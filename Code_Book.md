@@ -12,7 +12,7 @@ Since the data contains two sub folders i.e. __train__ and __test__ and for the 
 	labels in both of data sets *dataMS & Activity labels (provided with the project dataset)*. The data set is then stored in *dataActivity* and this datset
 	is labelled by getting the respective names by the indexes retrieved before. Each of variable description is belown which are divided into three generic sets:
 ***
-	* The first set contains 79 variables which contain mean and standard deviation of different body movement along __X, Y, & Z__ axis.The different combination
+* The first set contains 79 variables which contain mean and standard deviation of different body movement along __X, Y, & Z__ axis.The different combination
 	of jerk and magnitude on body acceleration, body gyro(rotation) and bodygravity affect and these are calculated w.r.t Time and Fourier Transform. The Time
 	and Fourier Transform is marked as t and f at the beginging of variable respectively
 		+ numeric class
