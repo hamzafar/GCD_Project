@@ -39,6 +39,6 @@ and Fourier Transform is marked as t and f at the beginging of variable respecti
 This Section describes the variables names and their usages in the scripts. For better understanding a table is constructed bellow that has the variable names 
 and description:
 	
-	Variable Name 	|	Description
-	-------------------------------
-	x_train			| reads the data set from training sub folder.
+Variable Name 	|	Description
+-------------------------------
+x_train			| reads the data set from training sub folder.
