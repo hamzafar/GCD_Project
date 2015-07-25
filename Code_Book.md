@@ -27,11 +27,9 @@ and Fourier Transform is marked as t and f at the beginging of variable respecti
 		Mag			|	Magnitude
 		Freq		|	Frequency
 	
-(2). subj
-	* subj variable contains the information about the people who were subjected to research
-		+ 1-30 values
-		+ integer Class
-(3). activity
-	* The variable have six distinct values of activity of people i.e. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) who were
-	wearing the smart phone
-		+ factor class
+* (2). The *__subj__* variable contains the information about the people who were subjected to research
+	+ 1-30 values
+	+ integer Class
+
+* (3). The *__activity__* variable have six distinct values of activity of people i.e. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) who were wearing the smart phone
+	+ factor class
