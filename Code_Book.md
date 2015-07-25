@@ -33,3 +33,11 @@ and Fourier Transform is marked as t and f at the beginging of variable respecti
 
 * (3). The *__activity__* variable have six distinct values of activity of people i.e. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) who were wearing the smart phone
 	+ factor class
+	
+***
+####Variable Description:
+This Section describes the variables names and their usages in the scripts. For better understanding a table is constructed bellow that has the variable names 
+and description:
+	Variable Name 	|	Description
+	-------------------------------
+	
