@@ -81,4 +81,7 @@
 78.	fBodyBodyGyroJerkMag-std()
 79.	fBodyBodyGyroJerkMag-meanFreq()
 80.	subj
+	* subj variable contains the information about the people who were subjected to research
+		+ 1-30 values
+		+ integer Class
 81.	activity
